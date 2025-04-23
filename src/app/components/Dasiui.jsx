@@ -28,8 +28,8 @@ export default function Dasiui() {
           </div>
   
           {/* Full Menu on lg+ */}
-          <div className="hidden lg:flex lg:ml-6">
-            <ul className="menu menu-horizontal px-1 space-x-2 text-base font-medium">
+          <div className="hidden lg:flex  lg:ml-6">
+            <ul className="menu menu-horizontal flex px-1 space-x-2 text-base font-medium">
               <li><a className="hover:text-primary">Home</a></li>
               <li><a className="hover:text-primary">Portfolio</a></li>
               <li><a className="hover:text-primary">About</a></li>
